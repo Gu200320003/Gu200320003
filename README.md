@@ -4,15 +4,12 @@ Sure, let's update the content to reflect the new information and preferences. H
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=38&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Gustavo+Bastos...;Eu+Tenho+21+Anos!;Sou+de+São+Paulo,+SP!;Atualmente+estou+estudando+Aplicações+para+Web.;Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=38&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Gustavo+Bastos...;Eu+Tenho+21+Anos!;Sou+de+São+Paulo,+SP!;Atualmente+estou+estudando+Aplicações+para+Web.;Bem+vindo(a)!+:%29>)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavopDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Bastos github stats" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavopDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-
-
 
 ## My Skills
 
@@ -21,13 +18,14 @@ Sure, let's update the content to reflect the new information and preferences. H
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Workstation Tools:
@@ -51,6 +49,7 @@ Sure, let's update the content to reflect the new information and preferences. H
   <a href="https://www.linkedin.com/in/gustavobastosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
